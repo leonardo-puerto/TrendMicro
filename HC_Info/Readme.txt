@@ -4,6 +4,11 @@ More information for best practices available in: https://success.trendmicro.com
 
 1. Release History
 ========================================================================
+27 Oct 2025
+New SEP HC for MAC is added:
+SEP (MAC) Evaluation Checklist - v1.xlsx
+Old SEP file is changed for Windows policies:
+SEP (WIN) Evaluation Checklist - v3.xlsx
 
 24 Oct 2025
 New HC files have been updated:

@@ -2,8 +2,12 @@ Best practice guides health check files for Trend Micro Products.
 More information for best practices available in: https://success.trendmicro.com/en-US/solution/ka-0007901
 
 
-Release History
+Release History (latest 3)
 ========================================================================
+***28 Oct 2025***
+New Endpoint inventory check:
+endpointInventory HC.xlsx
+
 ***27 Oct 2025***
 New SEP HC for MAC is added:
 SEP (MAC) Evaluation Checklist - v1.xlsx

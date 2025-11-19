@@ -4,6 +4,10 @@ More information for best practices available in: https://success.trendmicro.com
 
 Release History (latest 3)
 ========================================================================
+***Nov 19 2025***
+Credit consumption Checklist - v2.xlsx
+Update the file based on the new credit calculation information
+
 ***Nov 12 2025***
 Updated endpointInventory HC - v3.xlsx
 Adding new columns based on new Endpoint Security Policies to inventories
